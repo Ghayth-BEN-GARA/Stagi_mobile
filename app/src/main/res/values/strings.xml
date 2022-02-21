@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Stagi</string>
+    <string name="slogon_app">Stagi.tn</string>
+    <string name="copyright1">Copyright (c) </string>
+    <string name="copyright2">. All rights reserved.</string>
+    <string name="skip">Passer</string>
+    <string name="next">Suivant</string>
+    <string name="before">précédent</string>
+    <string name="start">Se commencer</string>
+    <string name="titre1">Offres de stages</string>
+    <string name="text_titre1">Vous trouverez les meilleurs et les derniers catalogues des stages sur notre plateforme.</string>
+    <string name="titre2">Réunions en ligne</string>
+    <string name="text_titre2">Les communications et les réunions avec les enseignants et les encadrants d"'"entreprise se déroulent directement sur notre plateforme.</string>
+    <string name="titre3">Publications instantanés</string>
+    <string name="text_titre3">Pour éviter les problèmes des e-mails, vous pouvez publier vos projets dans votre propre espace en identifiant vos encadrants et vos enseignants.</string>
+    <string name="titre4">Paiements sécurisés</string>
+    <string name="text_titre4">Le paiement s"'"effectue de manière très simple en toute sécurité.</string>
+    <string name="titre5">Informations personnelles</string>
+    <string name="text_titre5">Eviter de mettre des fausses information pour éviter toutes types de probléme durant votre stage.</string>
+</resources>
