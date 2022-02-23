@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Stagi">
         <activity
+            android:name=".Activities.SignInActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activities.PresentationActivity"
             android:exported="false" />
         <activity

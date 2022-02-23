@@ -168,4 +168,9 @@ public class PresentationActivity extends AppCompatActivity {
     public void goToNext(){
         viewPager.setCurrentItem(curentItemPosition + 1);
     }
+
+    @Override
+    public void onBackPressed() {
+        moveTaskToBack(true);
+    }
 }

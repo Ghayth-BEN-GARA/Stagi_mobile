@@ -3,14 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/background_button_round.xml" value="0.1145" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/background_button_round_bleu.xml" value="0.1085" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/background_inputs_bleu.xml" value="0.114" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/background_inputs_white.xml" value="0.114" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/button_choix_authentification.xml" value="0.1" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/indicateur_selected.xml" value="0.1" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/indicateur_selector.xml" value="0.1" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/indicateur_unselected.xml" value="0.1" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/drawable/stroke_bleu.xml" value="0.1135" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/activity_choix_authentification.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/activity_home.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/activity_main.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/activity_presentation.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/activity_splash.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/items_presentation.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghayth BEN GARA/AndroidStudioProjects/Stagi/app/src/main/res/layout/slides_presentation.xml" value="0.1213768115942029" />
       </map>
     </option>

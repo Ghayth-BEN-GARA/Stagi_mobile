@@ -10,4 +10,8 @@
     <color name="first_color">#0741AD</color>
     <color name="second_color">#3590D5</color>
     <color name="transparent">#00000000</color>
+    <color name="grise">#808080</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="green">#008000</color>
+    <color name="red">#c2262f</color>
 </resources>

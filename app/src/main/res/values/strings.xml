@@ -17,4 +17,27 @@
     <string name="text_titre4">Le paiement s"'"effectue de manière très simple en toute sécurité.</string>
     <string name="titre5">Informations personnelles</string>
     <string name="text_titre5">Eviter de mettre des fausses information pour éviter toutes types de probléme durant votre stage.</string>
+    <string name="titre_choix_authentification">Trouvez \n vos stages</string>
+    <string name="text_choix_authentification">Nous assurons les meilleures catalogues des stages pour vous.</string>
+    <string name="signin">Connexion</string>
+    <string name="signup">Inscription</string>
+    <string name="forget_password">Mot de passe oublié ?</string>
+    <string name="desc_login">Une belle expérience à vivre avec nous</string>
+    <string name="email_hint">Votre adresse e-mail..</string>
+    <string name="welcome_back">Content de te revoir !</string>
+    <string name="password_hint">Votre mot de passe..</string>
+    <string name="remember_user">Me rappeler</string>
+    <string name="text_btn_login">Se connecter</string>
+    <string name="login_with">Ou connectez-vous avec</string>
+    <string name="format_email_invalide">Le format de votre adresse e-mail n"'"est pas valide..</string>
+    <string name="email_vide">Votre adresse e-mail ne doit pas être vide..</string>
+    <string name="password_vide">Votre mot de passe ne doit pas être vide..</string>
+    <string name="password_length">Votre mot de passe contient moins de 8 caractères..</string>
+    <string name="password_miniscule">Votre mot de passe doit contenir au moins une lettre minuscule..</string>
+    <string name="password_majuscule">Votre mot de passe doit contenir au moins une lettre majuscule..</string>
+    <string name="password_caracteres_speaciaux">Votre mot de passe doit continir au moins un caractère spécial..</string>
+    <string name="password_chiffre">Votre mot de passe doit contenir au moins un chiffre..</string>
+    <string name="password_non_valide">Votre mot de oasse n"'"est pas valide..</string>
+
+
 </resources>
